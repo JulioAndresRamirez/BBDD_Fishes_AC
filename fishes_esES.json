@@ -2,67 +2,67 @@
   "Fishes": [
     {
       "id": 1,
-      "name": "Bitterling",
+      "name": "Amarguillo",
       "price": 900,
       "seasons": {
-        "North": [["Nov", "Dec", "Jan", "Feb", "Mar"]],
-        "South": [["May", "Jun", "Jul", "Aug", "Sep"]]
+        "North": [["Nov", "Dic", "Ene", "Feb", "Mar"]],
+        "South": [["May", "Jun", "Jul", "Ago", "Sep"]]
       },
-      "schedule": "All day",
-      "location": "River",
-      "shadow": "Smallest",
+      "schedule": "Todo el día",
+      "location": "Río",
+      "shadow": "Muy pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish01.png"
     },
     {
       "id": 2,
-      "name": "Pale Chub",
+      "name": "Cacho",
       "price": 160,
       "seasons": {
-        "North": [["All year"]],
-        "South": [["All year"]]
+        "North": [["Todo el año"]],
+        "South": [["Todo el año"]]
       },
       "schedule": "09:00-16:00",
-      "location": "River",
-      "shadow": "Smallest",
+      "location": "Río",
+      "shadow": "Muy pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish02.png"
     },
     {
       "id": 3,
-      "name": "Crucian Carp",
+      "name": "Carpín",
       "price": 160,
       "seasons": {
-        "North": [["All year"]],
-        "South": [["All year"]]
+        "North": [["Todo el año"]],
+        "South": [["Todo el año"]]
       },
-      "schedule": "All day",
-      "location": "River",
-      "shadow": "Small",
+      "schedule": "Todo el día",
+      "location": "Río",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish03.png"
     },
     {
       "id": 4,
-      "name": "Dace",
+      "name": "Leucisco",
       "price": 240,
       "seasons": {
-        "North": [["All year"]],
-        "South": [["All year"]]
+        "North": [["Todo el año"]],
+        "South": [["Todo el año"]]
       },
       "schedule": "16:00-09:00",
-      "location": "River",
-      "shadow": "Medium",
+      "location": "Río",
+      "shadow": "Medio",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish04.png"
     },
     {
       "id": 5,
-      "name": "Carp",
+      "name": "Carpa",
       "price": 300,
       "seasons": {
-        "North": [["All year"]],
-        "South": [["All year"]]
+        "North": [["Todo el año"]],
+        "South": [["Todo el año"]]
       },
-      "schedule": "All day",
+      "schedule": "Todo el día",
       "location": "Pond",
-      "shadow": "Large",
+      "shadow": "Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish05.png"
     },
     {
@@ -70,220 +70,220 @@
       "name": "Koi",
       "price": 4000,
       "seasons": {
-        "North": [["All year"]],
-        "South": [["All year"]]
+        "North": [["Todo el año"]],
+        "South": [["Todo el año"]]
       },
       "schedule": "16:00-09:00",
       "location": "Pond",
-      "shadow": "Large",
+      "shadow": "Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish06.png"
     },
     {
       "id": 7,
-      "name": "Goldfish",
+      "name": "Pez Dorado",
       "price": 1300,
       "seasons": {
-        "North": [["All year"]],
-        "South": [["All year"]]
+        "North": [["Todo el año"]],
+        "South": [["Todo el año"]]
       },
-      "schedule": "All day",
+      "schedule": "Todo el día",
       "location": "Pond",
-      "shadow": "Smallest",
+      "shadow": "Muy pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish07.png"
     },
     {
       "id": 8,
-      "name": "Pop-eyed Goldfish",
+      "name": "Pez Telescopio",
       "price": 1300,
       "seasons": {
-        "North": [["All year"]],
-        "South": [["All year"]]
+        "North": [["Todo el año"]],
+        "South": [["Todo el año"]]
       },
       "schedule": "09:00-16:00",
       "location": "Pond",
-      "shadow": "Smallest",
+      "shadow": "Muy pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish08.png"
     },
     {
       "id": 9,
-      "name": "Ranchu Goldfish",
+      "name": "Ranchú",
       "price": 4500,
       "seasons": {
-        "North": [["All year"]],
-        "South": [["All year"]]
+        "North": [["Todo el año"]],
+        "South": [["Todo el año"]]
       },
       "schedule": "09:00-16:00",
       "location": "Pond",
-      "shadow": "Small",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish09.png"
     },
     {
       "id": 10,
-      "name": "Killifish",
+      "name": "Killi",
       "price": 300,
       "seasons": {
-        "North": [["Apr", "May", "Jun", "Jul", "Aug"]],
-        "South": [["Oct", "Nov", "Dec", "Jan", "Feb"]]
+        "North": [["Abr", "May", "Jun", "Jul", "Ago"]],
+        "South": [["Oct", "Nov", "Dic", "Ene", "Feb"]]
       },
-      "schedule": "All day",
+      "schedule": "Todo el día",
       "location": "Pond",
-      "shadow": "Smallest",
+      "shadow": "Muy pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish10.png"
     },
     {
       "id": 11,
-      "name": "Crawfish",
+      "name": "Cangrejo de Río",
       "price": 200,
       "seasons": {
-        "North": [["Apr", "May", "Jun", "Jul", "Aug", "Sep"]],
-        "South": [["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]]
+        "North": [["Abr", "May", "Jun", "Jul", "Ago", "Sep"]],
+        "South": [["Oct", "Nov", "Dic", "Ene", "Feb", "Mar"]]
       },
-      "schedule": "All day",
+      "schedule": "Todo el día",
       "location": "Pond",
-      "shadow": "Small",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish11.png"
     },
     {
       "id": 12,
-      "name": "Soft-shelled Turtle",
+      "name": "Tortuga caparazón blando",
       "price": 3750,
       "seasons": {
-        "North": [["Aug", "Sep"]],
+        "North": [["Ago", "Sep"]],
         "South": [["Feb", "Mar"]]
       },
       "schedule": "16:00-09:00",
-      "location": "River",
-      "shadow": "Large",
+      "location": "Río",
+      "shadow": "Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish12.png"
     },
     {
       "id": 13,
-      "name": "Snapping Turtle",
+      "name": "Tortuga Mordedora",
       "price": 5000,
       "seasons": {
-        "North": [["Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct"]],
-        "South": [["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr"]]
+        "North": [["Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct"]],
+        "South": [["Oct", "Nov", "Dic", "Ene", "Feb", "Mar", "Abr"]]
       },
       "schedule": "21:00-04:00",
-      "location": "River",
-      "shadow": "X-Large",
+      "location": "Río",
+      "shadow": "Extra Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish13.png"
     },
     {
       "id": 14,
-      "name": "Tadpole",
+      "name": "Renacuajo",
       "price": 100,
       "seasons": {
-        "North": [["Mar", "Apr", "May", "Jun", "Jul"]],
-        "South": [["Sep", "Oct", "Nov", "Dec", "Jan"]]
+        "North": [["Mar", "Abr", "May", "Jun", "Jul"]],
+        "South": [["Sep", "Oct", "Nov", "Dic", "Ene"]]
       },
-      "schedule": "All day",
+      "schedule": "Todo el día",
       "location": "Pond",
-      "shadow": "Smallest",
+      "shadow": "Muy pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish14.png"
     },
     {
       "id": 15,
-      "name": "Frog",
+      "name": "Rana",
       "price": 120,
       "seasons": {
-        "North": [["May", "Jun", "Jul", "Aug"]],
-        "South": [["Nov", "Dec", "Jan", "Feb"]]
+        "North": [["May", "Jun", "Jul", "Ago"]],
+        "South": [["Nov", "Dic", "Ene", "Feb"]]
       },
-      "schedule": "All day",
+      "schedule": "Todo el día",
       "location": "Pond",
-      "shadow": "Small",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish15.png"
     },
     {
       "id": 16,
-      "name": "Freshwater Goby",
+      "name": "Gobio de Río",
       "price": 400,
       "seasons": {
-        "North": [["All year"]],
-        "South": [["All year"]]
+        "North": [["Todo el año"]],
+        "South": [["Todo el año"]]
       },
       "schedule": "16:00-09:00",
-      "location": "River",
-      "shadow": "Small",
+      "location": "Río",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish16.png"
     },
     {
       "id": 17,
-      "name": "Loach",
+      "name": "Locha",
       "price": 400,
       "seasons": {
-        "North": [["Mar", "Apr", "May"]],
+        "North": [["Mar", "Abr", "May"]],
         "South": [["Sep", "Oct", "Nov"]]
       },
-      "schedule": "All day",
-      "location": "River",
-      "shadow": "Small",
+      "schedule": "Todo el día",
+      "location": "Río",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish17.png"
     },
     {
       "id": 18,
-      "name": "Catfish",
+      "name": "Siluro",
       "price": 800,
       "seasons": {
-        "North": [["May", "Jun", "Jul", "Aug", "Sep", "Oct"]],
-        "South": [["Nov", "Dec", "Jan", "Feb", "Mar", "Apr"]]
+        "North": [["May", "Jun", "Jul", "Ago", "Sep", "Oct"]],
+        "South": [["Nov", "Dic", "Ene", "Feb", "Mar", "Abr"]]
       },
       "schedule": "16:00-09:00",
       "location": "Pond",
-      "shadow": "Large",
+      "shadow": "Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish18.png"
     },
     {
       "id": 19,
-      "name": "Giant Snakehead",
+      "name": "Pez cabeza de serpiente",
       "price": 5500,
       "seasons": {
-        "North": [["Jun", "Jul", "Aug"]],
-        "South": [["Dec", "Jan", "Feb"]]
+        "North": [["Jun", "Jul", "Ago"]],
+        "South": [["Dic", "Ene", "Feb"]]
       },
       "schedule": "09:00-16:00",
       "location": "Pond",
-      "shadow": "X-Large",
+      "shadow": "Extra Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish19.png"
     },
     {
       "id": 20,
-      "name": "Bluegill",
+      "name": "Pez Sol",
       "price": 180,
       "seasons": {
-        "North": [["All year"]],
-        "South": [["All year"]]
+        "North": [["Todo el año"]],
+        "South": [["Todo el año"]]
       },
       "schedule": "09:00-16:00",
-      "location": "River",
-      "shadow": "Small",
+      "location": "Río",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish20.png"
     },
     {
       "id": 21,
-      "name": "Yellow Perch",
+      "name": "Perca Amarilla",
       "price": 300,
       "seasons": {
-        "North": [["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]],
-        "South": [["Apr", "May", "Jun", "Jul", "Aug", "Sep"]]
+        "North": [["Oct", "Nov", "Dic", "Ene", "Feb", "Mar"]],
+        "South": [["Abr", "May", "Jun", "Jul", "Ago", "Sep"]]
       },
-      "schedule": "All day",
-      "location": "River",
-      "shadow": "Medium",
+      "schedule": "Todo el día",
+      "location": "Río",
+      "shadow": "Medio",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish21.png"
     },
     {
       "id": 22,
-      "name": "Black Bass",
+      "name": "Perca",
       "price": 400,
       "seasons": {
-        "North": [["All year"]],
-        "South": [["All year"]]
+        "North": [["Todo el año"]],
+        "South": [["Todo el año"]]
       },
-      "schedule": "All day",
-      "location": "River",
-      "shadow": "Large",
+      "schedule": "Todo el día",
+      "location": "Río",
+      "shadow": "Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish22.png"
     },
     {
@@ -291,121 +291,121 @@
       "name": "Tilapia",
       "price": 800,
       "seasons": {
-        "North": [["Jun", "Jul", "Aug", "Sep", "Oct"]],
-        "South": [["Dec", "Jan", "Feb", "Mar", "Apr"]]
+        "North": [["Jun", "Jul", "Ago", "Sep", "Oct"]],
+        "South": [["Dic", "Ene", "Feb", "Mar", "Abr"]]
       },
-      "schedule": "All day",
-      "location": "River",
-      "shadow": "Medium",
+      "schedule": "Todo el día",
+      "location": "Río",
+      "shadow": "Medio",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish23.png"
     },
     {
       "id": 24,
-      "name": "Pike",
+      "name": "Lucio",
       "price": 1800,
       "seasons": {
-        "North": [["Sep", "Oct", "Nov", "Dec"]],
-        "South": [["Mar", "Apr", "May", "Jun"]]
+        "North": [["Sep", "Oct", "Nov", "Dic"]],
+        "South": [["Mar", "Abr", "May", "Jun"]]
       },
-      "schedule": "All day",
-      "location": "River",
-      "shadow": "X-Large",
+      "schedule": "Todo el día",
+      "location": "Río",
+      "shadow": "Extra Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish24.png"
     },
     {
       "id": 25,
-      "name": "Pond Smelt",
+      "name": "Eperlano",
       "price": 500,
       "seasons": {
-        "North": [["Dec", "Jan", "Feb"]],
-        "South": [["Jun", "Jul", "Aug"]]
+        "North": [["Dic", "Ene", "Feb"]],
+        "South": [["Jun", "Jul", "Ago"]]
       },
-      "schedule": "All day",
-      "location": "River",
-      "shadow": "Small",
+      "schedule": "Todo el día",
+      "location": "Río",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish25.png"
     },
     {
       "id": 26,
-      "name": "Sweetfish",
+      "name": "Ayu",
       "price": 900,
       "seasons": {
-        "North": [["Jul", "Aug", "Sep"]],
-        "South": [["Jan", "Feb", "Mar"]]
+        "North": [["Jul", "Ago", "Sep"]],
+        "South": [["Ene", "Feb", "Mar"]]
       },
-      "schedule": "All day",
-      "location": "River",
-      "shadow": "Medium",
+      "schedule": "Todo el día",
+      "location": "Río",
+      "shadow": "Medio",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish26.png"
     },
     {
       "id": 27,
-      "name": "Cherry Salmon",
+      "name": "Salmon Japonés",
       "price": 1000,
       "seasons": {
         "North": [
-          ["Mar", "Apr", "May", "Jun"],
+          ["Mar", "Abr", "May", "Jun"],
           ["Sep", "Oct", "Nov"]
         ],
         "South": [
-          ["Mar", "Apr", "May"],
-          ["Sep", "Oct", "Nov", "Dec"]
+          ["Mar", "Abr", "May"],
+          ["Sep", "Oct", "Nov", "Dic"]
         ]
       },
       "schedule": "16:00-09:00",
-      "location": "R. Clifftop",
-      "shadow": "Medium",
+      "location": "Cascada",
+      "shadow": "Medio",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish27.png"
     },
     {
       "id": 28,
-      "name": "Char",
+      "name": "Trucha",
       "price": 3800,
       "seasons": {
         "North": [
-          ["Mar", "Apr", "May", "Jun"],
+          ["Mar", "Abr", "May", "Jun"],
           ["Sep", "Oct", "Nov"]
         ],
         "South": [
-          ["Mar", "Apr", "May"],
-          ["Sep", "Oct", "Nov", "Dec"]
+          ["Mar", "Abr", "May"],
+          ["Sep", "Oct", "Nov", "Dic"]
         ]
       },
       "schedule": "16:00-09:00",
-      "location": "R. Clifftop",
-      "shadow": "Medium",
+      "location": "Cascada",
+      "shadow": "Medio",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish28.png"
     },
     {
       "id": 29,
-      "name": "Golden Trout",
+      "name": "Trucha Dorada",
       "price": 15000,
       "seasons": {
         "North": [
-          ["Mar", "Apr", "May", "Jun"],
+          ["Mar", "Abr", "May", "Jun"],
           ["Sep", "Oct", "Nov"]
         ],
         "South": [
-          ["Mar", "Apr", "May"],
-          ["Sep", "Oct", "Nov", "Dec"]
+          ["Mar", "Abr", "May"],
+          ["Sep", "Oct", "Nov", "Dic"]
         ]
       },
       "schedule": "16:00-09:00",
-      "location": "R. Clifftop",
-      "shadow": "Medium",
+      "location": "Cascada",
+      "shadow": "Medio",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish29.png"
     },
     {
       "id": 30,
-      "name": "Stringfish",
+      "name": "Taimén",
       "price": 15000,
       "seasons": {
-        "North": [["Dec", "Jan", "Feb", "Mar"]],
-        "South": [["Jun", "Jul", "Aug", "Sep"]]
+        "North": [["Dic", "Ene", "Feb", "Mar"]],
+        "South": [["Jun", "Jul", "Ago", "Sep"]]
       },
       "schedule": "16:00-09:00",
-      "location": "R. Clifftop",
-      "shadow": "Largest",
+      "location": "Cascada",
+      "shadow": "Muy Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish30.png"
     },
     {
@@ -416,74 +416,74 @@
         "North": [["Sep"]],
         "South": [["Mar"]]
       },
-      "schedule": "All day",
-      "location": "R. Mouth",
-      "shadow": "Large",
+      "schedule": "Todo el día",
+      "location": "Desembocadura",
+      "shadow": "Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish31.png"
     },
     {
       "id": 32,
-      "name": "King Salmon",
+      "name": "Salmon Real",
       "price": 1800,
       "seasons": {
         "North": [["Sep"]],
         "South": [["Mar"]]
       },
-      "schedule": "All day",
-      "location": "R. Mouth",
-      "shadow": "Largest",
+      "schedule": "Todo el día",
+      "location": "Desembocadura",
+      "shadow": "Muy Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish32.png"
     },
     {
       "id": 33,
-      "name": "Mitten Crab",
+      "name": "Cangrejo Shanghái",
       "price": 2000,
       "seasons": {
         "North": [["Sep", "Oct", "Nov"]],
-        "South": [["Mar", "Apr", "May"]]
+        "South": [["Mar", "Abr", "May"]]
       },
       "schedule": "16:00-09:00",
-      "location": "River",
-      "shadow": "Small",
+      "location": "Río",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish33.png"
     },
     {
       "id": 34,
-      "name": "Guppy",
+      "name": "Gupi",
       "price": 1300,
       "seasons": {
-        "North": [["Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"]],
-        "South": [["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May"]]
+        "North": [["Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov"]],
+        "South": [["Oct", "Nov", "Dic", "Ene", "Feb", "Mar", "Abr", "May"]]
       },
       "schedule": "09:00-16:00",
-      "location": "River",
-      "shadow": "Smallest",
+      "location": "Río",
+      "shadow": "Muy pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish34.png"
     },
     {
       "id": 35,
-      "name": "Nibble Fish",
+      "name": "Pez Doctor",
       "price": 1500,
       "seasons": {
-        "North": [["May", "Jun", "Jul", "Aug", "Sep"]],
-        "South": [["Nov", "Dec", "Jan", "Feb", "Mar"]]
+        "North": [["May", "Jun", "Jul", "Ago", "Sep"]],
+        "South": [["Nov", "Dic", "Ene", "Feb", "Mar"]]
       },
       "schedule": "09:00-16:00",
-      "location": "River",
-      "shadow": "Small",
+      "location": "Río",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish35.png"
     },
     {
       "id": 36,
-      "name": "Angelfish",
+      "name": "Pez Ángel",
       "price": 3000,
       "seasons": {
-        "North": [["May", "Jun", "Jul", "Aug", "Sep", "Oct"]],
-        "South": [["Nov", "Dec", "Jan", "Feb", "Mar", "Apr"]]
+        "North": [["May", "Jun", "Jul", "Ago", "Sep", "Oct"]],
+        "South": [["Nov", "Dic", "Ene", "Feb", "Mar", "Abr"]]
       },
       "schedule": "16:00-09:00",
-      "location": "River",
-      "shadow": "Small",
+      "location": "Río",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish36.png"
     },
     {
@@ -491,51 +491,51 @@
       "name": "Betta",
       "price": 2500,
       "seasons": {
-        "North": [["May", "Jun", "Jul", "Aug", "Sep", "Oct"]],
-        "South": [["Nov", "Dec", "Jan", "Feb", "Mar", "Apr"]]
+        "North": [["May", "Jun", "Jul", "Ago", "Sep", "Oct"]],
+        "South": [["Nov", "Dic", "Ene", "Feb", "Mar", "Abr"]]
       },
       "schedule": "09:00-16:00",
-      "location": "River",
-      "shadow": "Small",
+      "location": "Río",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish37.png"
     },
     {
       "id": 38,
-      "name": "Neon Tetra",
+      "name": "Tetra Neón",
       "price": 500,
       "seasons": {
-        "North": [["Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"]],
-        "South": [["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May"]]
+        "North": [["Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov"]],
+        "South": [["Oct", "Nov", "Dic", "Ene", "Feb", "Mar", "Abr", "May"]]
       },
       "schedule": "09:00-16:00",
-      "location": "River",
-      "shadow": "Smallest",
+      "location": "Río",
+      "shadow": "Muy pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish38.png"
     },
     {
       "id": 39,
-      "name": "Rainbowfish",
+      "name": "Pez Arcoíris",
       "price": 800,
       "seasons": {
-        "North": [["May", "Jun", "Jul", "Aug", "Sep", "Oct"]],
-        "South": [["Nov", "Dec", "Jan", "Feb", "Mar", "Apr"]]
+        "North": [["May", "Jun", "Jul", "Ago", "Sep", "Oct"]],
+        "South": [["Nov", "Dic", "Ene", "Feb", "Mar", "Abr"]]
       },
       "schedule": "09:00-16:00",
-      "location": "River",
-      "shadow": "Small",
+      "location": "Río",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish39.png"
     },
     {
       "id": 40,
-      "name": "Piranha",
+      "name": "Piraña",
       "price": 2500,
       "seasons": {
-        "North": [["Jun", "Jul", "Aug", "Sep"]],
-        "South": [["Dec", "Jan", "Feb", "Mar"]]
+        "North": [["Jun", "Jul", "Ago", "Sep"]],
+        "South": [["Dic", "Ene", "Feb", "Mar"]]
       },
       "schedule": "09:00-16:00 / 21:00-04:00",
-      "location": "River",
-      "shadow": "Small",
+      "location": "Río",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish40.png"
     },
     {
@@ -543,12 +543,12 @@
       "name": "Arowana",
       "price": 10000,
       "seasons": {
-        "North": [["Jun", "Jul", "Aug", "Sep"]],
-        "South": [["Dec", "Jan", "Feb", "Mar"]]
+        "North": [["Jun", "Jul", "Ago", "Sep"]],
+        "South": [["Dic", "Ene", "Feb", "Mar"]]
       },
       "schedule": "16:00-09:00",
-      "location": "River",
-      "shadow": "Large",
+      "location": "Río",
+      "shadow": "Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish41.png"
     },
     {
@@ -556,520 +556,520 @@
       "name": "Dorado",
       "price": 15000,
       "seasons": {
-        "North": [["Jun", "Jul", "Aug", "Sep"]],
-        "South": [["Dec", "Jan", "Feb", "Mar"]]
+        "North": [["Jun", "Jul", "Ago", "Sep"]],
+        "South": [["Dic", "Ene", "Feb", "Mar"]]
       },
       "schedule": "04:00-21:00",
-      "location": "River",
-      "shadow": "X-Large",
+      "location": "Río",
+      "shadow": "Extra Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish42.png"
     },
     {
       "id": 43,
-      "name": "Gar",
+      "name": "Pez Caimán",
       "price": 6000,
       "seasons": {
-        "North": [["Jun", "Jul", "Aug", "Sep"]],
-        "South": [["Dec", "Jan", "Feb", "Mar"]]
+        "North": [["Jun", "Jul", "Ago", "Sep"]],
+        "South": [["Dic", "Ene", "Feb", "Mar"]]
       },
       "schedule": "16:00-09:00",
       "location": "Pond",
-      "shadow": "Largest",
+      "shadow": "Muy Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish43.png"
     },
     {
       "id": 44,
-      "name": "Arapaima",
+      "name": "Pirarucú",
       "price": 10000,
       "seasons": {
-        "North": [["Jun", "Jul", "Aug", "Sep"]],
-        "South": [["Dec", "Jan", "Feb", "Mar"]]
+        "North": [["Jun", "Jul", "Ago", "Sep"]],
+        "South": [["Dic", "Ene", "Feb", "Mar"]]
       },
       "schedule": "16:00-09:00",
-      "location": "River",
-      "shadow": "Largest",
+      "location": "Río",
+      "shadow": "Muy Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish44.png"
     },
     {
       "id": 45,
-      "name": "Saddled Bichir",
+      "name": "Bichir Ensillado",
       "price": 4000,
       "seasons": {
-        "North": [["Jun", "Jul", "Aug", "Sep"]],
-        "South": [["Dec", "Jan", "Feb", "Mar"]]
+        "North": [["Jun", "Jul", "Ago", "Sep"]],
+        "South": [["Dic", "Ene", "Feb", "Mar"]]
       },
       "schedule": "21:00-04:00",
-      "location": "River",
-      "shadow": "Large",
+      "location": "Río",
+      "shadow": "Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish45.png"
     },
     {
       "id": 46,
-      "name": "Sturgeon",
+      "name": "Esturión",
       "price": 10000,
       "seasons": {
-        "North": [["Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]],
-        "South": [["Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep"]]
+        "North": [["Sep", "Oct", "Nov", "Dic", "Ene", "Feb", "Mar"]],
+        "South": [["Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep"]]
       },
-      "schedule": "All day",
-      "location": "R. Mouth",
-      "shadow": "Largest",
+      "schedule": "Todo el día",
+      "location": "Desembocadura",
+      "shadow": "Muy Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish46.png"
     },
     {
       "id": 47,
-      "name": "Mar Butterfly",
+      "name": "Mariposa de Mar",
       "price": 1000,
       "seasons": {
-        "North": [["Dec", "Jan", "Feb", "Mar"]],
-        "South": [["Jun", "Jul", "Aug", "Sep"]]
+        "North": [["Dic", "Ene", "Feb", "Mar"]],
+        "South": [["Jun", "Jul", "Ago", "Sep"]]
       },
-      "schedule": "All day",
-      "location": "Sea",
-      "shadow": "Smallest",
+      "schedule": "Todo el día",
+      "location": "Mar.",
+      "shadow": "Muy pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish47.png"
     },
     {
       "id": 48,
-      "name": "Mar Horse",
+      "name": "Caballito de Mar",
       "price": 1100,
       "seasons": {
-        "North": [["Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"]],
-        "South": [["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May"]]
+        "North": [["Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov"]],
+        "South": [["Oct", "Nov", "Dic", "Ene", "Feb", "Mar", "Abr", "May"]]
       },
-      "schedule": "All day",
-      "location": "Sea",
-      "shadow": "Smallest",
+      "schedule": "Todo el día",
+      "location": "Mar.",
+      "shadow": "Muy pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish48.png"
     },
     {
       "id": 49,
-      "name": "Clown Fish",
+      "name": "Pez Payaso",
       "price": 650,
       "seasons": {
-        "North": [["Apr", "May", "Jun", "Jul", "Aug", "Sep"]],
-        "South": [["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]]
+        "North": [["Abr", "May", "Jun", "Jul", "Ago", "Sep"]],
+        "South": [["Oct", "Nov", "Dic", "Ene", "Feb", "Mar"]]
       },
-      "schedule": "All day",
-      "location": "Sea",
-      "shadow": "Smallest",
+      "schedule": "Todo el día",
+      "location": "Mar.",
+      "shadow": "Muy pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish49.png"
     },
     {
       "id": 50,
-      "name": "Surgeonfish",
+      "name": "Pez Cirujano",
       "price": 1000,
       "seasons": {
-        "North": [["Apr", "May", "Jun", "Jul", "Aug", "Sep"]],
-        "South": [["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]]
+        "North": [["Abr", "May", "Jun", "Jul", "Ago", "Sep"]],
+        "South": [["Oct", "Nov", "Dic", "Ene", "Feb", "Mar"]]
       },
-      "schedule": "All day",
-      "location": "Sea",
-      "shadow": "Small",
+      "schedule": "Todo el día",
+      "location": "Mar.",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish50.png"
     },
     {
       "id": 51,
-      "name": "Butterfly Fish",
+      "name": "Pez Mariposa",
       "price": 1000,
       "seasons": {
-        "North": [["Apr", "May", "Jun", "Jul", "Aug", "Sep"]],
-        "South": [["Oct", "Nov", "Dec", "Jan", "Feb", "Mar"]]
+        "North": [["Abr", "May", "Jun", "Jul", "Ago", "Sep"]],
+        "South": [["Oct", "Nov", "Dic", "Ene", "Feb", "Mar"]]
       },
-      "schedule": "All day",
-      "location": "Sea",
-      "shadow": "Small",
+      "schedule": "Todo el día",
+      "location": "Mar.",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish51.png"
     },
     {
       "id": 52,
-      "name": "Napoleonfish",
+      "name": "Pez Napoleón",
       "price": 10000,
       "seasons": {
-        "North": [["Jul", "Aug"]],
-        "South": [["Jan", "Feb"]]
+        "North": [["Jul", "Ago"]],
+        "South": [["Ene", "Feb"]]
       },
       "schedule": "04:00-21:00",
-      "location": "Sea",
-      "shadow": "Largest",
+      "location": "Mar.",
+      "shadow": "Muy Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish52.png"
     },
     {
       "id": 53,
-      "name": "Zebra Turkeyfish",
+      "name": "Pez León",
       "price": 500,
       "seasons": {
-        "North": [["Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"]],
-        "South": [["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May"]]
+        "North": [["Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov"]],
+        "South": [["Oct", "Nov", "Dic", "Ene", "Feb", "Mar", "Abr", "May"]]
       },
-      "schedule": "All day",
-      "location": "Sea",
-      "shadow": "Medium",
+      "schedule": "Todo el día",
+      "location": "Mar.",
+      "shadow": "Medio",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish53.png"
     },
     {
       "id": 54,
-      "name": "Blowfish",
+      "name": "Pez Globo",
       "price": 5000,
       "seasons": {
-        "North": [["Nov", "Dec", "Jan", "Feb"]],
-        "South": [["May", "Jun", "Jul", "Aug"]]
+        "North": [["Nov", "Dic", "Ene", "Feb"]],
+        "South": [["May", "Jun", "Jul", "Ago"]]
       },
       "schedule": "18:00-04:00",
-      "location": "Sea",
-      "shadow": "Medium",
+      "location": "Mar.",
+      "shadow": "Medio",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish54.png"
     },
     {
       "id": 55,
-      "name": "Puffer Fish",
+      "name": "Pez Erizo",
       "price": 250,
       "seasons": {
-        "North": [["Jul", "Aug", "Sep"]],
-        "South": [["Jan", "Feb", "Mar"]]
+        "North": [["Jul", "Ago", "Sep"]],
+        "South": [["Ene", "Feb", "Mar"]]
       },
-      "schedule": "All day",
-      "location": "Sea",
-      "shadow": "Medium",
+      "schedule": "Todo el día",
+      "location": "Mar.",
+      "shadow": "Medio",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish55.png"
     },
     {
       "id": 56,
-      "name": "Anchovy",
+      "name": "Boquerón",
       "price": 200,
       "seasons": {
-        "North": [["All year"]],
-        "South": [["All year"]]
+        "North": [["Todo el año"]],
+        "South": [["Todo el año"]]
       },
       "schedule": "04:00-21:00",
-      "location": "Sea",
-      "shadow": "Small",
+      "location": "Mar.",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish56.png"
     },
     {
       "id": 57,
-      "name": "Horse Mackerel",
+      "name": "Jurel",
       "price": 150,
       "seasons": {
-        "North": [["All year"]],
-        "South": [["All year"]]
+        "North": [["Todo el año"]],
+        "South": [["Todo el año"]]
       },
-      "schedule": "All day",
-      "location": "Sea",
-      "shadow": "Small",
+      "schedule": "Todo el día",
+      "location": "Mar.",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish57.png"
     },
     {
       "id": 58,
-      "name": "Barred Knifejaw",
+      "name": "Dorada japonesa",
       "price": 5000,
       "seasons": {
         "North": [
-          ["Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"]
+          ["Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov"]
         ],
         "South": [
-          ["Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May"]
+          ["Sep", "Oct", "Nov", "Dic", "Ene", "Feb", "Mar", "Abr", "May"]
         ]
       },
-      "schedule": "All day",
-      "location": "Sea",
-      "shadow": "Medium",
+      "schedule": "Todo el día",
+      "location": "Mar.",
+      "shadow": "Medio",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish58.png"
     },
     {
       "id": 59,
-      "name": "Mar Bass",
+      "name": "Lubina",
       "price": 400,
       "seasons": {
-        "North": [["All year"]],
-        "South": [["All year"]]
+        "North": [["Todo el año"]],
+        "South": [["Todo el año"]]
       },
-      "schedule": "All day",
-      "location": "Sea",
-      "shadow": "X-Large",
+      "schedule": "Todo el día",
+      "location": "Mar.",
+      "shadow": "Extra Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish59.png"
     },
     {
       "id": 60,
-      "name": "Red Snapper",
+      "name": "Pargo Rojo",
       "price": 3000,
       "seasons": {
-        "North": [["All year"]],
-        "South": [["All year"]]
+        "North": [["Todo el año"]],
+        "South": [["Todo el año"]]
       },
-      "schedule": "All day",
-      "location": "Sea",
-      "shadow": "Large",
+      "schedule": "Todo el día",
+      "location": "Mar.",
+      "shadow": "Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish60.png"
     },
     {
       "id": 61,
-      "name": "Dab",
+      "name": "Gallo",
       "price": 300,
       "seasons": {
-        "North": [["Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr"]],
-        "South": [["Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct"]]
+        "North": [["Oct", "Nov", "Dic", "Ene", "Feb", "Mar", "Abr"]],
+        "South": [["Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct"]]
       },
-      "schedule": "All day",
-      "location": "Sea",
-      "shadow": "Medium",
+      "schedule": "Todo el día",
+      "location": "Mar.",
+      "shadow": "Medio",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish61.png"
     },
     {
       "id": 62,
-      "name": "Olive Flounder",
+      "name": "Rodaballo",
       "price": 800,
       "seasons": {
-        "North": [["All year"]],
-        "South": [["All year"]]
+        "North": [["Todo el año"]],
+        "South": [["Todo el año"]]
       },
-      "schedule": "All day",
-      "location": "Sea",
-      "shadow": "Large",
+      "schedule": "Todo el día",
+      "location": "Mar.",
+      "shadow": "Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish62.png"
     },
     {
       "id": 63,
-      "name": "Squid",
+      "name": "Calamar",
       "price": 500,
       "seasons": {
         "North": [
-          ["Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug"]
+          ["Dic", "Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago"]
         ],
         "South": [
-          ["Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Jan", "Feb"]
+          ["Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic", "Ene", "Feb"]
         ]
       },
-      "schedule": "All day",
-      "location": "Sea",
-      "shadow": "Medium",
+      "schedule": "Todo el día",
+      "location": "Mar.",
+      "shadow": "Medio",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish63.png"
     },
     {
       "id": 64,
-      "name": "Moray Eel",
+      "name": "Morena",
       "price": 2000,
       "seasons": {
-        "North": [["Aug", "Sep", "Oct"]],
-        "South": [["Feb", "Mar", "Apr"]]
+        "North": [["Ago", "Sep", "Oct"]],
+        "South": [["Feb", "Mar", "Abr"]]
       },
-      "schedule": "All day",
-      "location": "Sea",
+      "schedule": "Todo el día",
+      "location": "Mar.",
       "shadow": "Narrow",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish64.png"
     },
     {
       "id": 65,
-      "name": "Ribbon Eel",
+      "name": "Anguila Listón Azul",
       "price": 600,
       "seasons": {
-        "North": [["Jun", "Jul", "Aug", "Sep", "Oct"]],
-        "South": [["Dec", "Jan", "Feb", "Mar", "Apr"]]
+        "North": [["Jun", "Jul", "Ago", "Sep", "Oct"]],
+        "South": [["Dic", "Ene", "Feb", "Mar", "Abr"]]
       },
-      "schedule": "All day",
-      "location": "Sea",
+      "schedule": "Todo el día",
+      "location": "Mar.",
       "shadow": "Narrow",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish65.png"
     },
     {
       "id": 66,
-      "name": "Tune",
+      "name": "Atún",
       "price": 7000,
       "seasons": {
-        "North": [["Nov", "Dec", "Jan", "Feb", "Mar", "Apr"]],
-        "South": [["Dec", "Jan", "Feb", "Mar", "Apr"]]
+        "North": [["Nov", "Dic", "Ene", "Feb", "Mar", "Abr"]],
+        "South": [["Dic", "Ene", "Feb", "Mar", "Abr"]]
       },
-      "schedule": "All day",
-      "location": "Pier",
-      "shadow": "Largest",
+      "schedule": "Todo el día",
+      "location": "Muelle",
+      "shadow": "Muy Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish66.png"
     },
     {
       "id": 67,
-      "name": "Blue Marlin",
+      "name": "Pez Espada",
       "price": 10000,
       "seasons": {
         "North": [
-          ["Jul", "Aug", "Sep"],
-          ["Nov", "Dec", "Jan", "Feb", "Mar", "Apr"]
+          ["Jul", "Ago", "Sep"],
+          ["Nov", "Dic", "Ene", "Feb", "Mar", "Abr"]
         ],
         "South": [
-          ["Jan", "Feb", "Mar"],
-          ["May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov"]
+          ["Ene", "Feb", "Mar"],
+          ["May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov"]
         ]
       },
-      "schedule": "All day",
-      "location": "Pier",
-      "shadow": "Largest",
+      "schedule": "Todo el día",
+      "location": "Muelle",
+      "shadow": "Muy Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish67.png"
     },
     {
       "id": 68,
-      "name": "Giant Trevally",
+      "name": "Jurel Gigante",
       "price": 4500,
       "seasons": {
-        "North": [["May", "Jun", "Jul", "Aug", "Sep", "Oct"]],
-        "South": [["Nov", "Dec", "Jan", "Feb", "Mar", "Apr"]]
+        "North": [["May", "Jun", "Jul", "Ago", "Sep", "Oct"]],
+        "South": [["Nov", "Dic", "Ene", "Feb", "Mar", "Abr"]]
       },
-      "schedule": "All day",
-      "location": "Pier",
-      "shadow": "Large",
+      "schedule": "Todo el día",
+      "location": "Muelle",
+      "shadow": "Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish68.png"
     },
     {
       "id": 69,
-      "name": "Mahi Mahi",
+      "name": "Lampuga",
       "price": 6000,
       "seasons": {
-        "North": [["May", "Jun", "Jul", "Aug", "Sep", "Oct"]],
-        "South": [["Nov", "Dec", "Jan", "Feb", "Mar", "Apr"]]
+        "North": [["May", "Jun", "Jul", "Ago", "Sep", "Oct"]],
+        "South": [["Nov", "Dic", "Ene", "Feb", "Mar", "Abr"]]
       },
-      "schedule": "All day",
-      "location": "Pier",
-      "shadow": "Large",
+      "schedule": "Todo el día",
+      "location": "Muelle",
+      "shadow": "Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish69.png"
     },
     {
       "id": 70,
-      "name": "Ocean Sunfish",
+      "name": "Pez Luna",
       "price": 4000,
       "seasons": {
-        "North": [["Jul", "Aug", "Sep"]],
-        "South": [["Jan", "Feb", "Mar"]]
+        "North": [["Jul", "Ago", "Sep"]],
+        "South": [["Ene", "Feb", "Mar"]]
       },
       "schedule": "04:00-21:00",
-      "location": "Sea",
-      "shadow": "Large (Fin)",
+      "location": "Mar.",
+      "shadow": "Grande (Fin)",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish70.png"
     },
     {
       "id": 71,
-      "name": "Ray",
+      "name": "Raya",
       "price": 3000,
       "seasons": {
-        "North": [["Aug", "Sep", "Oct", "Nov"]],
-        "South": [["Feb", "Mar", "Apr", "May"]]
+        "North": [["Ago", "Sep", "Oct", "Nov"]],
+        "South": [["Feb", "Mar", "Abr", "May"]]
       },
       "schedule": "04:00-21:00",
-      "location": "Sea",
-      "shadow": "X-Large",
+      "location": "Mar.",
+      "shadow": "Extra Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish71.png"
     },
     {
       "id": 72,
-      "name": "Saw Shark",
+      "name": "Pez Sierra",
       "price": 12000,
       "seasons": {
-        "North": [["Jun", "Jul", "Aug", "Sep"]],
-        "South": [["Dec", "Jan", "Feb", "Mar"]]
+        "North": [["Jun", "Jul", "Ago", "Sep"]],
+        "South": [["Dic", "Ene", "Feb", "Mar"]]
       },
       "schedule": "16:00-09:00",
-      "location": "Sea",
-      "shadow": "Largest (Fin)",
+      "location": "Mar.",
+      "shadow": "Con aleta",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish72.png"
     },
     {
       "id": 73,
-      "name": "Hammerhead Shark",
+      "name": "Pez Martillo",
       "price": 8000,
       "seasons": {
-        "North": [["Jun", "Jul", "Aug", "Sep"]],
-        "South": [["Dec", "Jan", "Feb", "Mar"]]
+        "North": [["Jun", "Jul", "Ago", "Sep"]],
+        "South": [["Dic", "Ene", "Feb", "Mar"]]
       },
       "schedule": "16:00-09:00",
-      "location": "Sea",
-      "shadow": "Largest (Fin)",
+      "location": "Mar.",
+      "shadow": "Con aleta",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish73.png"
     },
     {
       "id": 74,
-      "name": "Great White Shark",
+      "name": "Tiburón",
       "price": 15000,
       "seasons": {
-        "North": [["Jun", "Jul", "Aug", "Sep"]],
-        "South": [["Dec", "Jan", "Feb", "Mar"]]
+        "North": [["Jun", "Jul", "Ago", "Sep"]],
+        "South": [["Dic", "Ene", "Feb", "Mar"]]
       },
       "schedule": "16:00-09:00",
-      "location": "Sea",
-      "shadow": "Largest (Fin)",
+      "location": "Mar.",
+      "shadow": "Con aleta",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish74.png"
     },
     {
       "id": 75,
-      "name": "Whale Shark",
+      "name": "Tiburón Ballena",
       "price": 13000,
       "seasons": {
-        "North": [["Jun", "Jul", "Aug", "Sep"]],
-        "South": [["Dec", "Jan", "Feb", "Mar"]]
+        "North": [["Jun", "Jul", "Ago", "Sep"]],
+        "South": [["Dic", "Ene", "Feb", "Mar"]]
       },
-      "schedule": "All day",
-      "location": "Sea",
-      "shadow": "Largest (Fin)",
+      "schedule": "Todo el día",
+      "location": "Mar.",
+      "shadow": "Con aleta",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish75.png"
     },
     {
       "id": 76,
-      "name": "Suckerfish",
+      "name": "Rémora",
       "price": 1500,
       "seasons": {
-        "North": [["Jun", "Jul", "Aug", "Sep"]],
-        "South": [["Dec", "Jan", "Feb", "Mar"]]
+        "North": [["Jun", "Jul", "Ago", "Sep"]],
+        "South": [["Dic", "Ene", "Feb", "Mar"]]
       },
-      "schedule": "All day",
-      "location": "Sea",
-      "shadow": "Large (Fin)",
+      "schedule": "Todo el día",
+      "location": "Mar.",
+      "shadow": "Grande (Fin)",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish76.png"
     },
     {
       "id": 77,
-      "name": "Football Fish",
+      "name": "Pez Balón",
       "price": 2500,
       "seasons": {
-        "North": [["Nov", "Dec", "Jan", "Feb", "Mar"]],
-        "South": [["May", "Jun", "Jul", "Aug", "Sep"]]
+        "North": [["Nov", "Dic", "Ene", "Feb", "Mar"]],
+        "South": [["May", "Jun", "Jul", "Ago", "Sep"]]
       },
       "schedule": "16:00-09:00",
-      "location": "Sea",
-      "shadow": "Large",
+      "location": "Mar.",
+      "shadow": "Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish77.png"
     },
     {
       "id": 78,
-      "name": "Oarfish",
+      "name": "Pez Remo",
       "price": 9000,
       "seasons": {
-        "North": [["Dec", "Jan", "Feb", "Mar", "Apr", "May"]],
-        "South": [["Jun", "Jul", "Aug", "Sep", "Oct", "Nov"]]
+        "North": [["Dic", "Ene", "Feb", "Mar", "Abr", "May"]],
+        "South": [["Jun", "Jul", "Ago", "Sep", "Oct", "Nov"]]
       },
       "schedule": "16:00-09:00",
-      "location": "Sea",
-      "shadow": "Largest",
+      "location": "Mar.",
+      "shadow": "Muy Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish78.png"
     },
     {
       "id": 79,
-      "name": "Barreleye",
+      "name": "Pez Cabeza Transparente",
       "price": 15000,
       "seasons": {
-        "North": [["All year"]],
-        "South": [["All year"]]
+        "North": [["Todo el año"]],
+        "South": [["Todo el año"]]
       },
       "schedule": "21:00-04:00",
-      "location": "Sea",
-      "shadow": "Small",
+      "location": "Mar.",
+      "shadow": "Pequeña",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish79.png"
     },
     {
       "id": 80,
-      "name": "Coelacanth",
+      "name": "Celacanto",
       "price": 15000,
       "seasons": {
-        "North": [["All year"]],
-        "South": [["All year"]]
+        "North": [["Todo el año"]],
+        "South": [["Todo el año"]]
       },
-      "schedule": "All day",
-      "location": "Sea (Rainy)",
-      "shadow": "Largest",
+      "schedule": "Todo el día",
+      "location": "Mar (Lluvia)",
+      "shadow": "Muy Grande",
       "imageURL": "https://res.cloudinary.com/juliorafrecloud/image/upload/v1590362447/Fishes/Fish80.png"
     }
   ]
